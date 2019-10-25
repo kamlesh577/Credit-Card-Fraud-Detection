@@ -22,15 +22,15 @@ Although incidences of credit card fraud are limited to about 0.1% of all card t
 
 Throughout the financial sector, machine learning algorithms are being developed to detect fraudulent transactions. In this project, we are going to the same. Using a dataset of of nearly 28,500 credit card transactions and multiple unsupervised anomaly detection algorithms, we are going to identify transactions with a high probability of being credit card fraud. In this project, we will build and deploy the following machine learning algorithms:
 
-• Decision tree
+## • Decision tree
 
-• logistic regression
+## • logistic regression
 
-• Auto-Encoders
+## • Auto-Encoders
 
-• Local Outlier Factor (LOF)
+## • Local Outlier Factor (LOF)
 
-• Isolation Forest Algorithm
+## • Isolation Forest Algorithm
  
 •  Out of these algorithm we cannot use Decision trees because Decision trees does not give importance to specific features and generalize to each and every feature.
 
@@ -38,9 +38,11 @@ Throughout the financial sector, machine learning algorithms are being developed
 
 • Auto Encoders cannot be used due to less accuracy and efficiency.
    
-• So we will be using:     • Local Outlier Factor (LOF)
+• So we will be using:     
 
-                           • Isolation Forest Algorithm
+• Local Outlier Factor (LOF)
+
+• Isolation Forest Algorithm
 
 
 
