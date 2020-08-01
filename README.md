@@ -10,7 +10,7 @@ The most commonly techniques used fraud detection methods are Naïve Bayes (NB),
 
 • Lost Card: used by the people who finds it.
   
-• Card Number,CVV, etc : Seen by other person.
+• Card Number,CVV, etc : Seen by other people.
   
 • Fake phone call convincing you to disclose your details.
   
