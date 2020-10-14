@@ -1,6 +1,6 @@
 # Credit-Card-Fraud-Detection
 
-Credit card fraud is increasing considerably with the development of modern technology and the global superhighways of communication. Credit card fraud costs consumers and the financial company billions of dollars annually, and fraudsters continuously try to find new rules and tactics to commit illegal actions. Thus, fraud detection systems have become essential for banks and financial institution, to minimize their losses. 
+Credit card fraud is increasing considerably with the development of modern technology and the global superhighways of communication. Credit card fraud costs consumers and the financial company billions of dollars annually, and fraudsters continuously try to find new rules and tactics to commit illegal actions. Thus, fraud detection systems have become essential for banks and financial institution, to minimize their losses..
 
 ![Webp net-resizeimage (3)](https://user-images.githubusercontent.com/38343027/67157586-c4b7fe00-f34b-11e9-94f4-eccbd5e98c8a.jpg)
 
